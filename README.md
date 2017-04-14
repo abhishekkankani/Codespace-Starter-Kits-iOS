@@ -11,7 +11,7 @@ To use the project, go to the respective directory and download the project file
   
 The starter kits have code that can be modified and changed accordingly. The code contains comments for each functionality. 
 
-For any queries contact : 
+For any queries contact : <br> 
 *Abhishek Kankani : akankani@gmail.com*
 
 
